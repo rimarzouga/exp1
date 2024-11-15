@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+}
+.product{
+  border: solid black;
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+  background-color:aquamarine;
+  width: 15%;
+  padding: 10PX;
+}
+.product-image{
+    width: 100px;
+    height: 100px;
+}
+#container{
+    text-align: center;
+}
+.product-button{
+    background-color:brown;
+}
+#produit1{
+    border: solid red;
+}
+#produit2{
+    border: none;
+}
